@@ -82,4 +82,7 @@ if __name__ == '__main__':
 	solution = Solution()
 	sudoku_list = solution.create_sudoku_list(input_list)
 	result = solution.is_valid_sudoku(sudoku_list)
-	print(result)
+	if result:
+		print("Sudoku is VALID")
+	else:
+		print("Sudoki is INVALID")
