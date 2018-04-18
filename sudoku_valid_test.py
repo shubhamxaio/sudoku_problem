@@ -85,4 +85,4 @@ if __name__ == '__main__':
 	if result:
 		print("Sudoku is VALID")
 	else:
-		print("Sudoki is INVALID")
+		print("Sudoku is INVALID")
