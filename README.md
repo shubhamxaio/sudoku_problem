@@ -19,4 +19,4 @@ A valid Sudoku board (partially filled) is not necessarily solvable. Only the fi
 ## How to run
 from terminal run the below command:
 
-    **python3 sudoku_valid_test.py**
+    python3 sudoku_valid_test.py
